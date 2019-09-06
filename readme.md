@@ -7,4 +7,5 @@ Talk about immutability
 - [Ramda](https://ramdajs.com/docs/)
 - [ImmutableJS](https://immutable-js.github.io/immutable-js/)
 
-## License
+## LICENSE
+WTFPL (DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE)
