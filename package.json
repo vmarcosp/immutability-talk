@@ -1,0 +1,10 @@
+{
+  "name": "immutability",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^4.0.0-rc.12",
+    "ramda": "^0.26.1"
+  }
+}
